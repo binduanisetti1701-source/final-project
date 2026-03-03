@@ -1,13 +1,5 @@
-# Contributing Guidelines
+# Contributing
 
-Thank you for considering contributing to this project!
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
 
-All contributions are welcome, including:
-
-- Bug reports
-- Bug fixes
-- Documentation improvements
-- Enhancements
-- New feature ideas
-
-Please fork the repository and create a pull request with your changes.
+Please feel free to submit issues and pull requests.
